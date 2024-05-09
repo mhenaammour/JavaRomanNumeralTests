@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.uca.Tests" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-05-06T16:38:12" hostname="DESKTOP-6UVEO2N" time="0.069">
+  <properties/>
+  <testcase name="testDecimalToRomanKnownValues()" classname="com.uca.Tests" time="0.021"/>
+  <testcase name="testNegativeNumberConversion()" classname="com.uca.Tests" time="0.006"/>
+  <testcase name="testNumberOutOfRangeConversion()" classname="com.uca.Tests" time="0.001"/>
+  <testcase name="testConversionValidity()" classname="com.uca.Tests" time="0.023"/>
+  <testcase name="testImproperRomanNumeralRepetitions()" classname="com.uca.Tests" time="0.012"/>
+  <testcase name="testRomanToDecimalKnownValues()" classname="com.uca.Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
